@@ -1,6 +1,9 @@
 venv/
 .env
-data/raw/
 __pycache__/
-.ipynb_checkpoints/
 *.pyc
+.ipynb_checkpoints/
+
+# Сырые данные не храним в git
+data/*.csv
+data/*.parquet
