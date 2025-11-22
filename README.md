@@ -1,3 +1,3 @@
-# Fraud detection project
+# AI Hackathon ForteBank – Fraud Detection
 
-Черновик, потом допишем.
+Черновой проект. Здесь будет ML-модель для выявления мошеннических переводов в мобильном банкинге.
